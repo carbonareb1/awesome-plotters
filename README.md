@@ -131,6 +131,7 @@ Tools to manipulate and optimize vector-based file formats.
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) – Optimize drawing plan for a polargraph.
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) – An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) – Chrome-only bookmarklet for extracting SVG from an HTML document.
+- [vpype](https://vpype.readthedocs.io) - Swiss Army knife for creating, modifying and/or optimizing plotter-ready vector graphics.
 
 ### Fonts
 
